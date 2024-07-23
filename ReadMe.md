@@ -8,6 +8,7 @@ This Website will describe how to extend your mobile device features further and
 
 ![image](https://github.com/user-attachments/assets/1fb823e1-a961-4915-8a4c-bd04c39a848a)
 
+
 ## Screenshots of the Website
 
 ![Screenshot 2024-07-23 185402](https://github.com/user-attachments/assets/0951dfae-8096-43d8-93de-0f73349a2ec4)
